@@ -1,0 +1,20 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.padding-top-five {
+  padding-top: 3rem;
+}
+
+.btn-primary {
+  color: black !important;
+  background-color: lightgrey !important;
+  border-color: lightgrey !important;
+}
+
+.center-text {
+  text-align: center;
+}
